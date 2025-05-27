@@ -25,7 +25,9 @@ Python (Pandas, NumPy, Matplotlib, Seaborn)
 
 Scikit-learn for ML techniques
 
-Jupyter Notebook for analysis
+Google Colab
+
+Get the datasets from here: https://github.com/PacktPublishing/Deep-Learning-for-Genomics-/tree/main/Chapter03/lung
 
 Future extension: PyTorch/TensorFlow for neural networks
 
